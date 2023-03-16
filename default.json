@@ -1,4 +1,5 @@
 {
+  "baseBranches": ["release"],
   "enabled": true,
   "extends": ["schedule:nonOfficeHours"],
   "lockFileMaintenance": {
