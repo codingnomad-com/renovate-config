@@ -6,6 +6,8 @@
   "author": "Manuel Bachl | Coding Nomad <manuel@coding-nomad.com> (https://coding-nomad.com)",
   "homepage": "https://coding-nomad.com",
   "scripts": {
+    "release": "standard-version && yarn release:tags",
+    "release:tags": "git push --follow-tags origin main",
     "commit": "git-cz"
   },
   "devDependencies": {
