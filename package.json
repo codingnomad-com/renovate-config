@@ -1,6 +1,6 @@
 {
   "name": "@codingnomad/renovate-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Shared renovate bot configuration",
   "repository": "github:codingnomad-com/renovate-config",
   "author": "Manuel Bachl | Coding Nomad <manuel@coding-nomad.com> (https://coding-nomad.com)",
