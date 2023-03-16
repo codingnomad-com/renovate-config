@@ -11,6 +11,7 @@
     "commit": "git-cz"
   },
   "devDependencies": {
+    "@codingnomad/eslint-config-cn": "0.1.13",
     "@commitlint/cli": "17.4.4",
     "@commitlint/config-conventional": "17.4.4",
     "commitizen": "4.3.0",
